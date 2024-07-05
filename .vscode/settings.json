@@ -1,0 +1,32 @@
+{
+    "workbench.colorCustomizations": {
+
+        "[Monokai]": {
+            "editor.background": "#000",
+            "sideBar.background": "#0009",
+            "breadcrumb.background": "#000",
+            "input.background": "#000",
+            "minimap.background": "#000",
+            "panel.background": "#000",
+            "editor.lineHighlightBackground": "#000"
+        },
+        "[Monokai Dimmed]": {
+            "editor.background": "#000",
+            "sideBar.background": "#0009",
+            "breadcrumb.background": "#000",
+            "input.background": "#000",
+            "minimap.background": "#000",
+            "panel.background": "#000",
+            "editor.lineHighlightBackground": "#000"
+        },
+        "[Monokai Night]": {
+            "editor.background": "#000",
+            "sideBar.background": "#0009",
+            "breadcrumb.background": "#000",
+            "input.background": "#000",
+            "minimap.background": "#000",
+            "panel.background": "#000",
+            "editor.lineHighlightBackground": "#000"
+        }
+    }
+}
